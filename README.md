@@ -18,4 +18,4 @@ The analysis focuses on price, mileage, fuel type, and popular models.
 
 ## Dataset
 The dataset used in this project is from Kaggle:  
-[Mock Dataset of Second Hand Car Sales](https://www.kaggle.com/datasets/msnbehdani/mock-dataset-of-second-hand-car-sales)
+[Car Sales Dataset: Model, Features, and Pricing](https://www.kaggle.com/datasets/msnbehdani/mock-dataset-of-second-hand-car-sales)
